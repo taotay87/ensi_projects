@@ -1,0 +1,13 @@
+P001,Coca-Cola,Drink
+P037,Red_Bull,Drink
+P038,Monster_Energy,Drink
+P039,Coca-Cola_Zero,Drink
+P002,Pepsi,Drink
+P003,7UP,Drink
+P004,Sprite,Drink
+P005,Fanta,Drink
+P010,Lipton_Tea,Drink
+P006,Dr_Pepper,Drink
+P007,Mountain_Dew,Drink
+P008,Tropicana,Drink
+P009,Gatorade,Drink

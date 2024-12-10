@@ -1,0 +1,49 @@
+Sushi Spot Menu
+=========================================
+Sushi Rolls
+1. California Roll (8 pcs) - $6.99
+2. Spicy Tuna Roll (8 pcs) - $7.49
+3. Philadelphia Roll (8 pcs) - $7.99
+4. Veggie Roll (8 pcs) - $5.99
+5. Dragon Roll (8 pcs) - $8.99
+6. Rainbow Roll (8 pcs) - $9.49
+
+=========================================
+Nigiri (2 pcs per order)
+7. Salmon Nigiri - $4.49
+8. Tuna Nigiri - $4.99
+9. Shrimp Nigiri - $3.99
+10. Eel Nigiri - $5.49
+11. Tamago (Egg) Nigiri - $3.49
+
+=========================================
+Sashimi (5 pcs per order)
+12. Salmon Sashimi - $8.99
+13. Tuna Sashimi - $9.49
+14. Yellowtail Sashimi - $9.99
+15. Mixed Sashimi Plate - $12.99
+
+=========================================
+Specialty Platters
+16. Sushi Lover's Platter (20 pcs mix) - $24.99
+17. Sashimi Deluxe Platter (15 pcs mix) - $26.99
+18. Family Sushi Set (40 pcs mix) - $49.99
+
+=========================================
+Side Orders
+19. Edamame - $3.49
+20. Miso Soup - $2.99
+21. Seaweed Salad - $4.49
+22. Gyoza (6 pcs) - $5.99
+
+=========================================
+Desserts
+23. Mochi Ice Cream (3 pcs) - $4.99
+24. Green Tea Ice Cream - $3.99
+25. Dorayaki (Japanese Pancake) - $4.49
+
+=========================================
+Drinks
+26. Green Tea - $1.99
+27. Ramune (Japanese Soda) - $2.99
+28. Soft Drinks - $1.49

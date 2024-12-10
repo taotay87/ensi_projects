@@ -1,0 +1,40 @@
+Shawarma House Menu
+=========================================
+Shawarma Wraps
+1. Chicken Shawarma Wrap - $4.99
+2. Beef Shawarma Wrap - $5.49
+3. Lamb Shawarma Wrap - $5.99
+4. Falafel Wrap (Vegetarian) - $4.49
+5. Mixed Shawarma Wrap (Chicken & Beef) - $6.49
+
+=========================================
+Plates
+6. Chicken Shawarma Plate (with rice & salad) - $8.99
+7. Beef Shawarma Plate (with rice & hummus) - $9.49
+8. Lamb Shawarma Plate (with rice & tabbouleh) - $9.99
+9. Mixed Grill Plate (Chicken, Beef, Lamb) - $11.99
+
+=========================================
+Side Orders
+10. Hummus with Pita - $3.49
+11. Baba Ganoush - $3.99
+12. Garlic Sauce (Small) - $0.99
+13. French Fries - $2.49
+14. Stuffed Grape Leaves (6 pieces) - $4.99
+
+=========================================
+Family Deals
+15. Family Shawarma Feast (4 Wraps, 2 Sides, 4 Drinks) - $34.99
+16. Mixed Grill Family Platter (Serves 4, with rice & sides) - $49.99
+
+=========================================
+Desserts
+17. Baklava (4 pieces) - $4.99
+18. Kunafa - $5.49
+19. Rice Pudding - $2.99
+
+=========================================
+Drinks
+20. Mint Lemonade - $2.49
+21. Turkish Coffee - $1.99
+22. Soft Drinks - $1.49

@@ -1,0 +1,50 @@
+McDonald's Menu
+=========================================
+Individual Items
+1. Big Mac - $5.99
+2. Quarter Pounder with Cheese - $6.49
+3. McChicken - $4.49
+4. Filet-O-Fish - $4.59
+5. Double Cheeseburger - $2.99
+6. 10-Piece Chicken McNuggets - $4.99
+7. Large Fries - $3.49
+8. Medium Fries - $2.49
+9. Small Fries - $1.49
+10. Medium Coke - $1.99
+11. Large Coke - $2.49
+12. McFlurry (Oreo) - $3.99
+13. Apple Pie - $1.49
+14. Vanilla Ice Cream Cone - $1.29
+15. Chicken Snack Wrap - $2.99
+
+=========================================
+Combo Meals (Includes Medium Fries and Drink)
+16. Big Mac Combo - $8.99
+17. Quarter Pounder Combo - $9.49
+18. McChicken Combo - $7.99
+19. Filet-O-Fish Combo - $8.49
+20. 10-Piece Nuggets Combo - $8.99
+
+=========================================
+Family Packages
+21. Family Pack (4 Big Macs, 4 Fries, 4 Drinks) - $35.99
+22. Chicken Lovers Pack (20 Nuggets, 4 Fries, 4 Drinks) - $29.99
+23. Mixed Family Pack (2 Big Macs, 2 McChickens, 4 Fries, 4 Drinks) - $33.99
+
+=========================================
+Breakfast Items
+24. Egg McMuffin - $3.49
+25. Sausage McMuffin with Egg - $3.99
+26. Hotcakes - $4.29
+27. Hash Browns - $1.99
+28. McGriddle - $3.79
+29. Breakfast Burrito - $2.99
+
+=========================================
+Desserts
+30. Chocolate Sundae - $2.49
+31. Strawberry Sundae - $2.49
+32. Baked Apple Pie - $1.49
+33. Cookies (3-pack) - $1.99
+
+=========================================

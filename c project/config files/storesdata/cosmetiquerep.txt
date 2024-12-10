@@ -1,0 +1,14 @@
+P001, Himalaya,Cream
+P002, Innisfree,Cream
+P003, Shiseido,Shampoo
+P004, Laneige, Serum
+P005, Etude House,Cream
+P006, Missha,Mascara
+P007, Sulwhasoo,Cream
+P009, Biore, UV Aqua Rich Sunscreen
+P010, Fenty Beauty, Stunna Lip Paint
+P011, Maybelline, Fit Me Foundation
+P018, Avene,Water
+P019, L'Oréal,Repair Lotion
+P017, The Face Shop,Hand Cream
+P020, Skinfood,Hand Cream

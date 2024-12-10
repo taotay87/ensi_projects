@@ -1,0 +1,6 @@
+P017,Kinder_Chocolate,Snack
+P033,Halva,Snack
+P035,Pita_Chips,Snack
+P044,Blue_Diamond_Almonds,Snack
+P049,Toblerone,Snack
+P050,Milka_Chocolate,Snack

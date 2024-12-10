@@ -1,0 +1,12 @@
+P004,Huawei_Phone Smartphone,Smartphone
+P005,Sony_Xperia Smartphone,Smartphone
+P011,MacBook_Laptop,Laptop
+p999,redmi_phone,Smartphone
+P034,Vizio_TV TV,TV
+P035,TCL_TV TV,TV
+P027,Nikon_Camera Camera,Camera
+P030,Fujifilm_Camera Camera,Camera
+P048,Garmin_Smartwatch Smartwatch,Smartwatch
+P049,Xiaomi_Mi_Band Smartwatch,Smartwatch
+P043,Corsair_Gaming_Mouse Mouse,Peripheral
+P044,SteelSeries_Gaming_Mouse Mouse,Peripheral

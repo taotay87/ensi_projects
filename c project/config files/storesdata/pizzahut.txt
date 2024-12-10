@@ -1,0 +1,32 @@
+Pizza Hut Menu
+=========================================
+Pizzas (Medium Size)
+1. Pepperoni Pizza - $10.99
+2. Margherita Pizza - $9.99
+3. BBQ Chicken Pizza - $12.49
+4. Veggie Supreme - $11.49
+5. Meat Lover's Pizza - $13.49
+6. Hawaiian Pizza - $11.99
+
+=========================================
+Pasta
+7. Chicken Alfredo Pasta - $8.99
+8. Spaghetti Bolognese - $7.99
+9. Veggie Pasta Bake - $8.49
+
+=========================================
+Side Orders
+10. Garlic Breadsticks - $3.49
+11. Cheese Breadsticks - $4.49
+12. Wings (6 pieces) - $5.99
+13. Stuffed Garlic Knots - $5.49
+
+=========================================
+Desserts
+14. Chocolate Brownie - $3.49
+15. Cinnamon Sticks - $4.99
+
+=========================================
+Family Deals
+16. Family Pizza Pack (2 Large Pizzas, 1 Side, 4 Drinks) - $39.99
+17. Pasta and Pizza Combo (1 Medium Pizza, 1 Pasta, 2 Drinks) - $24.99

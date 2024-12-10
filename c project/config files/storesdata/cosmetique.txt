@@ -1,0 +1,14 @@
+P001 Nivea Skin ,Cream  
+P002 Olay Regenerist ,Cream  
+P003 Garnier Fructis ,Shampoo  
+P004 L'Oréal Paris ,Serum  
+P005 Dove Beauty ,Bar  
+P006 Maybelline ,Mascara  
+P007 Clinique ,Moisturizer  
+P009 Neutrogena ,Sunscreen  
+P010 MAC ,Lipstick  
+P011 Revlon ,Foundation  
+P018 Vichy Mineralizing, Water  
+P019 Eucerin Advanced ,Repair Lotion
+P017 Ahava Dead Sea Water Mineral ,Hand Cream  
+P020 L'Occitane Shea Butter ,Hand Cream
